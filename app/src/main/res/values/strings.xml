@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Escenario1</string>
+    <string name="rbNombres">Nombres</string>
+    <string name="rbDeportes">Deportes</string>
+    <string name="rbCiudades">Ciudades</string>
+    <string-array name="nombres">
+        <item>Jaime</item>
+        <item>Antonio</item>
+        <item>Susana</item>
+        <item>Raquel</item>
+    </string-array>
+    <string-array name="deportes">
+        <item>Tenis de mesa</item>
+        <item>Futbol</item>
+        <item>Padel</item>
+        <item>Tenis</item>
+    </string-array>
+    <string-array name="ciudades">
+        <item>Sevilla</item>
+        <item>Málaga</item>
+        <item>Almería</item>
+        <item>Granada</item>
+    </string-array>
+</resources>
